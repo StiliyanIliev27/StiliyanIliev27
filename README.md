@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects and contribute to meaningful initiatives that make a positive impact.
 - 🔍 Perfectionism and Purposefulness are the two main traits that best describe me. I believe in delivering high-quality code and solutions that solve real-world problems.
 - 🎯 On the path to becoming a Software Developer and eager to learn and grow in this exciting field.
-- 📫 You can reach me at stiliyaniliev2705@gmail.com or connect with me on [LinkedIn](linkedin.com/in/stiliyan-iliev-55879a295)
+- 📫 You can reach me at stiliyaniliev2705@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/stiliyan-iliev-55879a295/)
 
 <!---
 StiliyanIliev27/StiliyanIliev27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
