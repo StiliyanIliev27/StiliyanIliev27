@@ -1,6 +1,6 @@
-![Snake animation](https://github.com/{{StiliyanIliev27}}/{{StiliyanIliev27}}/blob/output/github-contribution-grid-snake.svg)
+![MasterHead](https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif)
 <h1 align="center">Hi 👋, I'm Stiliyan Iliev</h1>
-<h3 align="center">A tech enthusiast from Plovdiv, Bulgaria. I'm passionate about technology and software development.</h3>
+<h3 align="center">a tech enthusiast from Plovdiv, Bulgaria. I'm passionate about technology and software development.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdrbmJvaDgzcXVqOG1sMHZqcHpwaHhoMzN5Z2VxNzU5ZTI2bmw5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stiliyaniliev27&label=Profile%20views&color=0e75b6&style=flat" alt="stiliyaniliev27" /> </p>
