@@ -65,6 +65,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/StiliyanIliev27/StiliyanIliev27/output/snake.svg" alt="Snake animation" />
 
-###
