@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/swapnanildutta/swapnanildutta/master/assets/gifs/nothing.gif" />
+  <img height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/swapnanildutta/swapnanildutta/master/assets/gifs/nothing.gif" />
 </div>
 
 ###
