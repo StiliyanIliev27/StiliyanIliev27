@@ -44,19 +44,48 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"  />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="40" alt="css3 logo"  />
+  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" height="40" alt="vue logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff" height="40" alt="stripe logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff" height="40" alt="sonar-cloud logo"  />
+  <img width="12" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="40" alt="github-actions logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="40" alt="jenkins logo"  />
+ 
 </div>
 
 ###
