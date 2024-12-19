@@ -39,37 +39,66 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+<h3 align="left">🛠 Programming Languages</h3>
 
 <div align="left">
   <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" height="40" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="40" alt="javascript logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<div align="left">
+
+  
+  
+ 
+</div>
+
+<h3 align="left">🛠 Backend and Databases</h3>
+<div align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" height="40" alt="node logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" height="40" alt="postgresql logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" height="40" alt="mongo logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" height="40" alt="mysql logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" height="40" alt="redis logo"  />
   <img width="12" />
+</div>
+
+<h3 align="left">🛠 Frontend and Frameworks</h3>
+<div align="left">
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="40" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" height="40" alt="tailwind logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" height="40" alt="vue logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" height="40" alt="react logo"  />
   <img width="12" />
+</div>
+
+<h3 align="left">🛠 Cloud and DevOps</h3>
+<div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" height="40" alt="ubuntu logo"  />
@@ -85,7 +114,6 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="40" alt="github-actions logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="40" alt="jenkins logo"  />
- 
 </div>
 
 ###
