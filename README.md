@@ -128,38 +128,46 @@
 
 ###
 
-# 💻 Portfolio Projects
+# 👨‍💻 Professional Portfolio
 
-| 🎯 Project | 📝 Description | 🛠️ Technologies | 🔗 Links |
+## 🚀 Featured Projects
+| 🎯 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
 |:----------:|:-------------:|:---------------:|:--------:|
-| 🏨 BookingSystem | Modern travel platform featuring comprehensive booking for flights, hotels, and attractions | ASP.NET MVC, EF Core, MS SQL | [🔍 View Project](https://github.com/StiliyanIliev27/BookingSystem) |
-| 🏠 SmartHub | IoT marketplace with AI-powered assistance and secure payment integration | VueJS, ASP.NET Web API, EF Core, MS SQL | [🌐 Frontend](https://github.com/StiliyanIliev27/SmartHomeApplianceFE)<br>[⚙️ Backend](https://github.com/StiliyanIliev27/SmartHomeApplianceBE) |
-| 👨‍💻 Portfolio | Interactive personal portfolio showcasing projects and skills | JavaScript, HTML5, CSS3 | [🔍 View Project](https://github.com/StiliyanIliev27/Portfolio) |
-| 🎵 TuneAI | Intelligent music platform with mood-based playlist curation | JavaScript, HTML5, CSS3 | [🔍 View Project](https://github.com/StiliyanIliev27/Portfolio) |
-| 🎼 Classify | Comprehensive classical music database with community contributions | ASP.NET MVC, EF Core, MS SQL | [🔍 View Project](https://github.com/StiliyanIliev27/Classify) |
-| 🎮 Card War Game | Interactive multiplayer card battle game | ReactJS, ASP.NET Web API, EF Core, MS SQL | [🌐 Frontend](https://github.com/StiliyanIliev27/Card-War-Game-FE)<br>[⚙️ Backend](https://github.com/StiliyanIliev27/Card-War-Game-BE) |
+| 🏨 BookingSystem | Modern travel platform featuring comprehensive booking for flights, hotels, and attractions | `ASP.NET MVC` `EF Core` `MS SQL` | [🔍 Explore](https://github.com/StiliyanIliev27/BookingSystem) |
+| 🏠 SmartHub | IoT marketplace with AI-powered assistance and secure payment integration | `VueJS` `ASP.NET Web API` `EF Core` `MS SQL` | [🌐 Frontend](https://github.com/StiliyanIliev27/SmartHomeApplianceFE)<br>[⚙️ Backend](https://github.com/StiliyanIliev27/SmartHomeApplianceBE) |
+| 👨‍💻 Portfolio | Interactive personal portfolio showcasing projects and skills | `JavaScript` `HTML5` `CSS3` | [🔍 Explore](https://github.com/StiliyanIliev27/Portfolio) |
+| 🎵 TuneAI | Intelligent music platform with mood-based playlist curation | `JavaScript` `HTML5` `CSS3` | [🔍 Explore](https://github.com/StiliyanIliev27/Portfolio) |
+| 🎼 Classify | Comprehensive classical music database with community contributions | `ASP.NET MVC` `EF Core` `MS SQL` | [🔍 Explore](https://github.com/StiliyanIliev27/Classify) |
+| 🎮 Card War Game | Interactive multiplayer card battle game | `ReactJS` `ASP.NET Web API` `EF Core` `MS SQL` | [🌐 Frontend](https://github.com/StiliyanIliev27/Card-War-Game-FE)<br>[⚙️ Backend](https://github.com/StiliyanIliev27/Card-War-Game-BE) |
 
-# 🎓 Education
+## 💼 Internships
+| 🎯 Role | 🏢 Company | ⏰ Duration | 🛠️ Project & Technologies |
+|:-------:|:----------:|:----------:|:------------------------:|
+| Node.js Developer | Intern Academy Season 3<br>Cost Effective Solutions | Nov 2024 - Present | **Building Management System**<br>`Node.js` `Express.js` `Sequelize ORM` `MySQL` |
+| .NET Developer | Intern Academy Season 2<br>Cost Effective Solutions | Jun 2024 - Oct 2024 | **Self-Guided Tours System**<br>`ASP.NET Web API` `Entity Framework` `MS SQL` |
 
-## 📜 Diploma
-| 🏆 Program | 🏛️ Institution | 📅 Date | 🔗 Credential |
-|:----------:|:--------------:|:--------:|:------------:|
-| Back-End Software Engineer with C# | Software University | January 2025 | [🎯 View Diploma](https://softuni.bg/certificates/details/234865/d26c5c99) ✅ |
+## 🎓 Education & Certifications
 
-## 🏅 Professional Certifications
-| 📊 Certificate | 🏛️ Institution | 📅 Date | 🔗 Credential |
-|--------------|:--------------:|:--------:|:------------:|
-| VueJS - November 2024 | Software University | January 2025 | [🎯 View](https://softuni.bg/certificates/details/235123/0e5e4735) ✅ |
-| Containers and Cloud - October 2024 | Software University | December 2024 | [🎯 View](https://softuni.bg/certificates/details/232907/0341cbe6) ✅ |
-| Software Engineering and DevOps - September 2024 | Software University | November 2024 | [🎯 View](https://softuni.bg/certificates/details/229524/2fe001dd) ✅ |
-| JS Front-End - June 2024 | Software University | August 2024 | [🎯 View](https://softuni.bg/certificates/details/223950/88208ef3) ✅ |
-| HTML & CSS - May 2024 | Software University | June 2024 | [🎯 View](https://softuni.bg/certificates/details/218544/e27c77e6) ✅ |
-| ASP.NET Advanced - February 2024 | Software University | April 2024 | [🎯 View](https://softuni.bg/certificates/details/214258/78284f16) ✅ |
-| ASP.NET Fundamentals - January 2024 | Software University | February 2024 | [🎯 View](https://softuni.bg/certificates/details/206840/bca9d1c3) ✅ |
-| Entity Framework - October 2023 | Software University | December 2023 | [🎯 View](https://softuni.bg/certificates/details/197371/8727804f) ✅ |
-| MS SQL - September 2023 | Software University | October 2023 | [🎯 View](https://softuni.bg/certificates/details/185819/c0c7d706) ✅ |
-| C# OOP - June 2023 | Software University | August 2023 | [🎯 View](https://softuni.bg/certificates/details/181175/2aa27c17) ✅ |
-| C# Advanced - May 2023 | Software University | June 2023 | [🎯 View](https://softuni.bg/certificates/details/173701/d97edaae) ✅ |
-| C# Fundamentals - January 2023 | Software University | April 2023 | [🎯 View](https://softuni.bg/certificates/details/166695/c50118f3) ✅ |
-| C# Basics - September 2022 | Software University | October 2022 | [🎯 View](https://softuni.bg/certificates/details/143797/5df46aa9) ✅ |
+### 🏆 Major Achievements
+| 📜 Credential | 🏛️ Institution | 📅 Date | 🔗 Verification |
+|-------------|:--------------:|:--------:|:--------------:|
+| Back-End Software Engineer with C# | Software University | January 2025 | [🎯 Verify](https://softuni.bg/certificates/details/234865/d26c5c99) ✅ |
+| Practical Intern | Cost-Effective-Solutions | October 2024 | [🎯 Verify](https://huutgnkansvslafnbtbg.supabase.co/storage/v1/object/public/files/certificates/season1/Certificate-Intern-Stiliyan-Iliev.pdf) ✅ |
+
+### 📚 Professional Certifications
+| 🎯 Course & Date | 🏛️ Institution | 📅 Completed | 🔗 Verification |
+|---------------|:--------------:|:------------:|:--------------:|
+| `VueJS` - Nov 2024 | Software University | January 2025 | [🎯](https://softuni.bg/certificates/details/235123/0e5e4735) ✅ |
+| `Containers & Cloud` - Oct 2024 | Software University | December 2024 | [🎯](https://softuni.bg/certificates/details/232907/0341cbe6) ✅ |
+| `Software Engineering & DevOps` - Sep 2024 | Software University | November 2024 | [🎯](https://softuni.bg/certificates/details/229524/2fe001dd) ✅ |
+| `JS Front-End` - Jun 2024 | Software University | August 2024 | [🎯](https://softuni.bg/certificates/details/223950/88208ef3) ✅ |
+| `HTML & CSS` - May 2024 | Software University | June 2024 | [🎯](https://softuni.bg/certificates/details/218544/e27c77e6) ✅ |
+| `ASP.NET Advanced` - Feb 2024 | Software University | April 2024 | [🎯](https://softuni.bg/certificates/details/214258/78284f16) ✅ |
+| `ASP.NET Fundamentals` - Jan 2024 | Software University | February 2024 | [🎯](https://softuni.bg/certificates/details/206840/bca9d1c3) ✅ |
+| `Entity Framework` - Oct 2023 | Software University | December 2023 | [🎯](https://softuni.bg/certificates/details/197371/8727804f) ✅ |
+| `MS SQL` - Sep 2023 | Software University | October 2023 | [🎯](https://softuni.bg/certificates/details/185819/c0c7d706) ✅ |
+| `C# OOP` - Jun 2023 | Software University | August 2023 | [🎯](https://softuni.bg/certificates/details/181175/2aa27c17) ✅ |
+| `C# Advanced` - May 2023 | Software University | June 2023 | [🎯](https://softuni.bg/certificates/details/173701/d97edaae) ✅ |
+| `C# Fundamentals` - Jan 2023 | Software University | April 2023 | [🎯](https://softuni.bg/certificates/details/166695/c50118f3) ✅ |
+| `C# Basics` - Sep 2022 | Software University | October 2022 | [🎯](https://softuni.bg/certificates/details/143797/5df46aa9) ✅ |
 
