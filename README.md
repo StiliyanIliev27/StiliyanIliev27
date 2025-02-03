@@ -136,7 +136,7 @@
 | 🏨 BookingSystem | Modern travel platform featuring comprehensive booking for flights, hotels, and attractions | `ASP.NET MVC` `EF Core` `MS SQL` | [🔍 Explore](https://github.com/StiliyanIliev27/BookingSystem) |
 | 🏠 SmartHub | IoT marketplace with AI-powered assistance and secure payment integration | `VueJS` `ASP.NET Web API` `EF Core` `MS SQL` | [🌐 Frontend](https://github.com/StiliyanIliev27/SmartHomeApplianceFE)<br>[⚙️ Backend](https://github.com/StiliyanIliev27/SmartHomeApplianceBE) |
 | 👨‍💻 Portfolio | Interactive personal portfolio showcasing projects and skills | `JavaScript` `HTML5` `CSS3` | [🔍 Explore](https://github.com/StiliyanIliev27/Portfolio) |
-| 🎵 TuneAI | Intelligent music platform with mood-based playlist curation | `JavaScript` `HTML5` `CSS3` | [🔍 Explore](https://github.com/StiliyanIliev27/Portfolio) |
+| 🎵 TuneAI | Intelligent music platform with mood-based playlist curation | `JavaScript` `HTML5` `CSS3` | [🔍 Explore](https://github.com/StiliyanIliev27/TuneAI) |
 | 🎼 Classify | Comprehensive classical music database with community contributions | `ASP.NET MVC` `EF Core` `MS SQL` | [🔍 Explore](https://github.com/StiliyanIliev27/Classify) |
 | 🎮 Card War Game | Interactive multiplayer card battle game | `ReactJS` `ASP.NET Web API` `EF Core` `MS SQL` | [🌐 Frontend](https://github.com/StiliyanIliev27/Card-War-Game-FE)<br>[⚙️ Backend](https://github.com/StiliyanIliev27/Card-War-Game-BE) |
 
