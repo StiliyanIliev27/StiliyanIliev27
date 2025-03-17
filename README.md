@@ -143,7 +143,7 @@
 ## 💼 Internships
 | 🎯 Role | 🏢 Company | ⏰ Duration | 🛠️ Project & Technologies |
 |:-------:|:----------:|:----------:|:------------------------:|
-| Node.js Developer | Intern Academy Season 3<br>Cost Effective Solutions | Nov 2024 - Present | **Building Management System**<br>`Node.js` `Express.js` `Sequelize ORM` `MySQL` |
+| Node.js Developer | Intern Academy Season 3<br>Cost Effective Solutions | Nov 2024 - Jan 2025 | **Building Management System**<br>`Node.js` `Express.js` `Sequelize ORM` `MySQL` |
 | .NET Developer | Intern Academy Season 2<br>Cost Effective Solutions | Jun 2024 - Oct 2024 | **Self-Guided Tours System**<br>`ASP.NET Web API` `Entity Framework` `MS SQL` |
 
 ## 🎓 Education & Certifications
@@ -151,6 +151,7 @@
 ### 🏆 Major Achievements
 | 📜 Credential | 🏛️ Institution | 📅 Date | 🔗 Verification |
 |-------------|:--------------:|:--------:|:--------------:|
+| C# Full-Stack Developer | Software University | February 2025 | [🎯 Verify](https://softuni.bg/certificates/details/237566/2cf5676f) ✅ |
 | Back-End Software Engineer with C# | Software University | January 2025 | [🎯 Verify](https://softuni.bg/certificates/details/234865/d26c5c99) ✅ |
 | Practical Intern | Cost-Effective-Solutions | October 2024 | [🎯 Verify](https://huutgnkansvslafnbtbg.supabase.co/storage/v1/object/public/files/certificates/season1/Certificate-Intern-Stiliyan-Iliev.pdf) ✅ |
 
